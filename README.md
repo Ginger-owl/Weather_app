@@ -1,6 +1,6 @@
 # Weather_app
 ### JetBrains Academy Project
-Simple single-page weather app made with Flask and Sqlalchemy and using OpenWeather API
+Simple single-page weather app made with Flask, Sqlalchemy and OpenWeather API
 
 
 ## Learning outcomes
